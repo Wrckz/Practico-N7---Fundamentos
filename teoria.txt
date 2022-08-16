@@ -3,10 +3,18 @@ Con tus palabras explica los siguientes conceptos.
 
 - Protoype
 
+un prototipo permite heredar propiedades de un objeto y a su vez se puede añadir metodos
+
 - Explica con un ejemplo en donde haya un super super type, un super type y un subtype
+
 
 - Que son los Object
 
+es una objeto que posee sus propiedades y tipos. Por ej un auto puede ser un Objeto, posee un color, un diseño, una marca, etc.
+
+
 - Explica por lo menos 5 metodos de los Object
+
+
 
 - Que hace Object.keys?
